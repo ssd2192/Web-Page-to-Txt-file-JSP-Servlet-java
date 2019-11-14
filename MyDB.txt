@@ -1,4 +1,1 @@
-Name: Irban, Last Name: Jassal, Employee ID: 101, Salary: 400000
 Name: Sandeep, Last Name: Dhillon, Employee ID: 102, Salary: 400000
-Name: Guest, Last Name: Crazy, Employee ID: 102, Salary: 100
-Name: Sandeep, Last Name: Dhillon, Employee ID: 101, Salary: 400000
