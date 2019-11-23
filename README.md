@@ -1,5 +1,5 @@
 # Web page to txt file using JSP Servlet
-This is a basic example how to store data entered in a web page and save in a txt file using JSP Servlet
+JSP Servlet example of how to store data entered in a web page and save in a txt file using JSP Servlet
 ## Prerequisites
 JDK and Netbeans IDE
 
